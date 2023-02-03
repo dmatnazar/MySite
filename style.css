@@ -1,0 +1,31 @@
+style.css
+style
+body{
+    background-color: rgba(69, 202, 57, 0.897);
+    text-shadow: 1ch;
+
+}
+h1{
+    color: blue;
+    font-style: bold;
+    font-display: orange;
+}
+h4{
+    font: optional;
+    font-size: 10
+}
+
+img{
+    box-shadow: 10cm;
+    border-radius: 10%;
+    counter-increment: initial;
+}
+
+
+header h1 {
+    font-size: 70px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+      0px 0px 20px #b393d3;
+  }
